@@ -1,0 +1,1 @@
+TeamCity allows you to flexibly adjust the notification rules, so that you receive notifications only on the events that you are interested in.
