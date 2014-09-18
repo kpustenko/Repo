@@ -1,1 +1,2 @@
 TortoiseSVN is a free open-source client for the Subversion version control system
+That is, TortoiseSVN manages files and directories over time. 
