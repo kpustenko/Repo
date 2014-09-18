@@ -1,1 +1,2 @@
 TeamCity is an all-in-one pre-integrated solution. Whether you develop in Java, .NET or for mobile platforms, TeamCity has something to offer.
+With its REST API and over 100 ready-to-use plugins, TeamCity will fit all your needs.
