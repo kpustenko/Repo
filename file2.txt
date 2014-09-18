@@ -1,0 +1,1 @@
+TeamCity is an all-in-one pre-integrated solution. Whether you develop in Java, .NET or for mobile platforms, TeamCity has something to offer.
